@@ -8,7 +8,7 @@
 
 <strong>Collaborators:</strong>
 <ul>
-  <li>Gabriel	Vanderkin</li>
+  <li>Gabriel	Vanderkin</li> I'm here, and have access to the repository
   <li>Dayton	Vanhouten</li>
   <li>Stuart	Watson</li>
   <li>Lee	West</li>
