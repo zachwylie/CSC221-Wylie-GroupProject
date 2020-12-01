@@ -10,6 +10,6 @@
 <ul>
   <li>Gabriel	Vanderkin</li> I'm here, and have access to the repository
   <li>Dayton	Vanhouten</li>
-  <li>Stuart	Watson</li> Accepted, Invite. Please visit my repository. 
+  <li>Stuart	Watson</li> - Accepted, Invite. Please visit my repository. 
   <li>Lee	West</li>
 </ul>
