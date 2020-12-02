@@ -11,5 +11,5 @@
   <li>Gabriel	Vanderkin</li> I'm here, and have access to the repository
   <li>Dayton	Vanhouten</li>
   <li>Stuart	Watson</li> - Accepted, Invite. Please visit my repository. 
-  <li>Lee	West</li>
+  <li>Lee	West</li> - Accepted
 </ul>
