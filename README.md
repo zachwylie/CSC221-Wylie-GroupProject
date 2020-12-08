@@ -13,3 +13,7 @@
   <li>Stuart	Watson</li> - Accepted, Invite. Please visit my repository. 
   <li>Lee	West</li> - Accepted
 </ul>
+<strong>Instructor:</strong>
+<ul>
+  <li>Ms Rizzo </li>
+</ul>
